@@ -1,0 +1,107 @@
+{
+  "pageNames": {
+      "blog": "Blog",
+      "news": "Yangiliklar",
+      "services": "Xizmatlar",
+      "about": "Men haqimda"
+  },
+  "navbar": {
+    "button": "Qabulga yozilish",
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "service": "Xizmatlar",
+    "blog": "Blog",
+    "news": "Yangiliklar"
+  },
+  "about": {
+    "title": "Urmonov Umidjon Butabekovich",
+    "desc": "Torakoabdominal onkolog-xirurg, tibbiyot fanlari nomzodi, oliy toifali onkoxirurg",
+    "button": "Qabulga yozilish"
+  },
+  "bio": {
+    "sub_title": "Yillik",
+    "sub_desc": "kasbiy tajriba",
+    "title": "Biografiya",
+    "desc": "Mening ismim Urmonov Umidjon Butabekovich. Men onkoxirurman. Har xil joylashuvdagi o‘smalar bo‘yicha operatsiyalar, shoshilinch jarrohlik amaliyotlari va diagnostik muolajalarni bajaramiz. Minglab minnatdor bemorlar va yuzlab muvaffaqiyatli operatsiyalar – bu mening har kunlik mehnatim natijasidir.",
+    "desc_2": "13 yildan ortiq jarrohlik tajribasiga ega malakali jarroh. U har doim murakkab operatsiyalarga jur‘at bilan kirishadi. U o‘z faoliyatini yetakchi tibbiyot muassasasida boshlagan va tez orada ishonchli mutaxassis sifatida tanilgan. Uning ustozlari: akademik, prof. Choynzonov Ye.Ts., akademik, prof. Zikiryaxodjayev D.Z., prof. Afanasyev S.G., prof. Hakimov G.A., prof. Tuzikov S.A., prof. Yuldoshev R.Z., t.f.d. Dobrodeyev A.Yu., t.f.n. Volkov M.Yu.",
+    "button": "Batafsil"
+  },
+  "global_title": {
+    "cards": "Xizmatlar ro‘yxati",
+    "patients": "Bemorlar fikrlari",
+    "patients_click": "Fikr qoldiring",
+    "videos": "Ijtimoiy tarmoqlardagi videolar",
+    "info": "Ko‘p so‘raladigan savollar",
+    "info_click": "Savollaringiz bormi? Bizga yozing!",
+    "telegram": "Telegram orqali bog‘lanish",
+    "whatsup": "WhatsApp orqali bog‘lanish",
+    "contact": "Kontaktlar",
+    "phone": "Telefon:",
+    "email": "Email:",
+    "location": "Manzil:",
+    "button": "Batafsil",
+    "share":"Ulanish",
+    "swiper": "O‘xshash bloglar",
+    "patient":"Fikringiz",
+    "info_title":"Savolingizni qoldiring!"
+  },
+  "footer": {
+    "date": "Ish vaqti",
+    "month": "Dushanba - Juma",
+    "hours": "Shanba",
+    "menu": "Menyu",
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "service": "Xizmatlar",
+    "blog": "Ishlar",
+    "media": "Media",
+    "address": {
+      "address": "Manzil:",
+      "title": "Toshkent shahar filiali, Respublika ixtisoslashtirilgan onkologiya va radiologiya ilmiy-amaliy tibbiyot markazi",
+      "email": "Email:",
+      "desc": "Urmonov Umidjon Butabekovich. Barcha huquqlar himoyalangan."
+    }
+  },
+  "about_page": {
+    "general_title": "Kasbiy faoliyat tarixi",
+    "title_1": "yillik tajriba",
+    "title_2": "ilmiy maqolalar",
+    "title_3": "mamnun mijozlar",
+    "title_4": "amalga oshirilgan operatsiyalar",
+    "about": {
+      "sub_title": "",
+      "sub_desc": ""
+    },
+    "title": "Urmonov Umidjon Butabekovich",
+    "desc": "13 yildan ortiq jarrohlik tajribasiga ega tajribali xirurg. Har doim murakkab vazifalarni bajarishga tayyor. Faoliyatini yetakchi tibbiyot muassasasida boshlagan va tez orada ishonchli mutaxassis sifatida tanilgan. Ustozlari: akademik prof. Choynzonov E.Ts., akademik prof. Zikiryaxo‘jayev D.Z., prof. Afanasyev S.G., prof. Hakimov G.A., prof. Tuzikov S.A., prof. Yo‘ldoshev R.Z., t.f.d. Dobrodeyev A.Yu., t.f.n. Volkov M.Yu."
+  },
+  "form": {
+    "title_label": "Sarlavha",
+    "title_placeholder": "Sarlavhani kiriting",
+    "description_label": "Tavsif",
+    "description_placeholder": "Tavsifni kiriting",
+    "image_label": "Rasm",
+    "image_upload_text": "Rasm yuklash uchun bosing",
+    "image_format_hint": "PNG, JPG, WEBP (maks. 5MB)",
+    "save_button": "Saqlash",
+    "edit_image": "Tahrirlash",
+    "title": "Qabulga yozilish",
+    "name": "Ism",
+    "phone": "Telefon",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "success": "Xabar muvaffaqiyatli yuborildi!",
+    "error": "Xabar yuborishda xatolik yuz berdi. Iltimos, qaytadan urinib ko‘ring.",
+    "required": "Iltimos, barcha maydonlarni to‘ldiring!",
+    "phoneError": "Telefon raqam formati noto‘g‘ri",
+    "loading": "Yuborilmoqda...",
+    "desc_uz": "Fikringizni qoldiring!",
+    "upload_image":"Rasm yuklang!",
+    "image_size_error":"Rasm hajmi 3MB dan oshmasligi kerak!"
+  },
+  "salom": {
+    "share": "Ulashish",
+    "copied": "Nusxa olindi!",
+    "copy_failed": "Nusxa olishda xatolik yuz berdi!"
+  }
+}
